@@ -7,7 +7,7 @@ If you choose to use the Bot, then you agree to the collection and use of inform
 
 The following is the Privacy Policy that outlines the collection of data from this Bot and any other service we may provide (the "Services"). It is a binding contract between the User ("You") and Mystery's Printer ("Us", "Our", "We").
 
-If you have any questions or concerns regarding the Privacy Policy, you can contact us via our [Discord Server](https://discord.gg/ahN9aSWsXv) or by contacting Mystery#1000 on [Discord](https://discordapp.com).
+If you have any questions or concerns regarding the Privacy Policy, you can contact us via our [Discord Server](https://discord.gg/ahN9aSWsXv) or by contacting Mystery#0004 on [Discord](https://discordapp.com).
 
 Discord's Privacy Policy: [Here](https://discord.com/privacy)
 
@@ -48,7 +48,7 @@ To delete all your data, do one of the following:
 
 * Join our [Discord Server](https://discord.gg/ahN9aSWsXv) and request data deletion in the channel named `data-removal`. Channel ID: `1004912006891049010`
 
-* Contact Mystery#1000 on [Discord](https://discordapp.com) to request data deletion.
+* Contact Mystery#0004 on [Discord](https://discordapp.com) to request data deletion.
 
 ___
 
