@@ -8,7 +8,7 @@ The following are the Terms of Service ("Terms") that govern the bot. It is a bi
 Using the Bot means that you agree to the Terms, and the Terms continue to apply for as long as you use the Bot.
 The Terms include the content of this document, as well as the content of the Privacy Policy.
 
-If you have any questions or concerns regarding the Terms of Service, you can contact us via our [Discord Server](https://discord.gg/ahN9aSWsXv) or by contacting Mystery#1000 on [Discord](https://discordapp.com).
+If you have any questions or concerns regarding the Terms of Service, you can contact us via our [Discord Server](https://discord.gg/ahN9aSWsXv) or by contacting Mystery#0004 on [Discord](https://discordapp.com).
 
 Discord's Privacy Policy: [Here](https://discord.com/privacy)
 
