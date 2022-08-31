@@ -1,9 +1,9 @@
-## Privacy Policy & ToS Mystery's Printer - Discord Bot
+## Privacy Policy & ToS Mystery's Printer - Discord Bot 🖨️
 Read the official Privacy Policy & Terms of Service. 
 
-[Privacy Policy](https://github.com/digitalRM/Privacy-Terms/blob/51aae30a8aef6a5d009f6d8b116d26ec1ee77838/PrivacyPolicy.md)
+Contact ` Mystery#0004 ` on discord for support.
 
-[Terms of Service](https://github.com/digitalRM/Privacy-Terms/blob/51aae30a8aef6a5d009f6d8b116d26ec1ee77838/TermsOfService.md)
+[Privacy Policy](https://github.com/digitalRM/Privacy-Terms/blob/51aae30a8aef6a5d009f6d8b116d26ec1ee77838/PrivacyPolicy.md) & [Terms of Service](https://github.com/digitalRM/Privacy-Terms/blob/51aae30a8aef6a5d009f6d8b116d26ec1ee77838/TermsOfService.md)
 
 ___
 
